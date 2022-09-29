@@ -1,1 +1,1 @@
-My first readme
+ This our project fouces on python 
